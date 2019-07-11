@@ -2,3 +2,4 @@ JWT deep tips:
 1. On java, common library/framework for JWT is "org.jose4j" [https://github.com/RbkGh/Jose4j]
 2. JWT, JWS, JWK
 3. JOSE stands for "Javascript Object Signing and Encryption"
+4. A very good article to explain JWT/JWS/JWE (https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)
